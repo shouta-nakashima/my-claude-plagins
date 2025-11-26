@@ -100,7 +100,6 @@ Conventional Commitsは、コミットメッセージに人間と機械が読み
 - CHANGELOGの自動生成
 - セマンティックバージョニングの自動判定
 - 変更内容の明確な伝達
-- コントリビューターの参加しやすさ向上
 
 詳細: https://www.conventionalcommits.org/
 
